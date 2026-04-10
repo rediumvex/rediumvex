@@ -49,7 +49,6 @@ Follow the repo list below or [join Knox Community](https://www.skool.com/knox-c
 | 🎓 [Skool — Knox Community](https://www.skool.com/knox-community-7232/) | n8n library, Claude skills, cold outreach systems, weekly live sessions |
 | 📸 [Instagram — @roman.knox](https://www.instagram.com/roman.knox) | Daily AI builds, 280K+ followers |
 | 📚 [knoxhub.io](https://knoxhub.io) | Long-form guides, templates, articles |
-| ▶️ [YouTube — @AI-GPTWorkshop](https://www.youtube.com/@AI-GPTWorkshop) | Build-alongs and tutorials |
 
 ---
 
