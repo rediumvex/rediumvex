@@ -37,6 +37,13 @@ Public skills you can install and use right now. Each one is the exact skill I u
 
 ---
 
+### [🎬 AI Video Generator](https://github.com/rediumvex/ai-video-generator-claude)
+> 10 prompt engineering skills that turn Claude into a cinematic video director for Seedance 2.0 on Higgsfield. Viral hooks, SaaS demos, personal brand, faceless content, luxury aesthetic — studio-quality video from a text prompt.
+
+**`ai-video` · `seedance` · `higgsfield` · `video-prompts` · `claude-skill`**
+
+---
+
 More skills coming — every week I open-source one of the skills that powers my stack.
 Follow the repo list below or [join Knox Community](https://www.skool.com/knox-community-7232/) to get them first.
 
